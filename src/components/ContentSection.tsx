@@ -1741,8 +1741,7 @@ const ContentSection = () => {
                                         duration: 0.6,
                                       }}
                                       style={{
-                                        background:
-                                          "linear-gradient(135deg, rgba(52, 152, 219, 0.1) 0%, rgba(46, 204, 113, 0.1) 100%)",
+                                        background: "white",
                                         borderRadius: "16px",
                                         padding: "40px",
                                         boxShadow: "0 4px 12px rgba(0,0,0,0.1)",
