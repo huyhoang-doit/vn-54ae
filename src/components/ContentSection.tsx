@@ -384,64 +384,72 @@ const sections: Section[] = [
         ],
       },
       {
-        title: "4.2. Đặc điểm dân tộc Kinh",
+        title: '4.2. "Người Kinh chiếm dụng" văn hóa, kinh tế, và chính trị của các dân tộc khác?',
         image: "/images/img3.jpg",
         content: [],
         cards: [
           {
-            title: "Vị trí và số lượng",
+            title: "Tồn tại sự chênh lệch khách quan",
             content:
-              "Dân tộc Kinh chiếm đa số, khoảng 86-90% dân số, sống chủ yếu ở các vùng đồng bằng và thành thị. Họ có ảnh hưởng lớn về kinh tế, văn hóa và chính trị do chiếm đại đa số dân số và kiểm soát chủ yếu các vùng kinh tế trọng điểm.",
+              "Có sự chênh lệch thực tế về dân số (người Kinh chiếm 85,7%) và trình độ phát triển không đồng đều giữa các dân tộc, vốn là hậu quả của quá trình phát triển lịch sử.",
           },
           {
-            title: "Văn hóa và truyền thống",
+            title: "Chủ trương của Nhà nước là bình đẳng, tương trợ",
             content:
-              "Người Kinh có nền văn hóa lâu đời, truyền thống trồng lúa nước phát triển mạnh mẽ, với các tập quán văn hóa đặc trưng như ăn trầu cau, thờ cúng tổ tiên, và hệ thống gia đình phụ hệ.",
+              "Chính sách dân tộc của Việt Nam được xây dựng trên nguyên tắc \"bình đẳng, đoàn kết, tương trợ, giúp nhau cùng phát triển\".",
           },
         ],
       },
       {
-        title: "4.3. Chính sách dân tộc của Nhà nước Việt Nam",
+        title: '4.3. Mục tiêu là khắc phục chênh lệch, không phải "chiếm dụng"',
         image: "/images/img4.jpg",
         content: [],
         cards: [
           {
-            title: "Nguyên tắc bình đẳng",
+            title: "Kinh tế",
             content:
-              "Các dân tộc bình đẳng hoàn toàn. Tất cả các dân tộc đều có quyền và nghĩa vụ như nhau, không có sự phân biệt đối xử giữa các dân tộc.",
+              "Nhà nước \"ưu tiên đầu tư phát triển kinh tế - xã hội các vùng dân tộc và miền núi\" nhằm \"từng bước khắc phục khoảng cách chênh lệch\".",
           },
           {
-            title: "Quyền tự quyết",
+            title: "Văn hóa",
             content:
-              "Các dân tộc có quyền tự quyết. Mỗi dân tộc có quyền tự quyết định vận mệnh của mình, phù hợp với lợi ích và nguyện vọng của dân tộc đó.",
+              "Chính sách hướng đến \"Giữ gìn và phát huy giá trị văn hóa truyền thống của các tộc người\", xây dựng nền văn hóa \"thống nhất trong đa dạng\", chứ không phải đồng hóa.",
           },
           {
-            title: "Bảo vệ và phát triển văn hóa",
+            title: "Chính trị",
             content:
-              "Nhà nước bảo vệ và phát triển văn hóa truyền thống của các dân tộc thiểu số. Khuyến khích phát huy bản sắc văn hóa riêng của từng dân tộc.",
-          },
-          {
-            title: "Đoàn kết dân tộc",
-            content:
-              "Thúc đẩy sự liên kết, đoàn kết giữa các dân tộc để xây dựng một quốc gia đa dân tộc hòa bình, phát triển. Xây dựng sự đoàn kết dân tộc để tránh chia rẽ và xung đột.",
+              "Nhà nước \"chăm lo xây dựng đội ngũ cán bộ dân tộc thiểu số\" để tăng cường sự tham gia của họ vào hệ thống chính trị.",
           },
         ],
       },
       {
-        title: "4.4. Giải thích vấn đề",
+        title: '4.4. "Vậy tại sao vẫn tồn tại quan điểm về sự chiếm dụng?"',
         image: "/images/img2.jpg",
-        content: [
-          "Giải thích về việc người Kinh chiếm ưu thế, có thể thấy rằng do tập trung đông người ở vùng đồng bằng, có điều kiện thuận lợi về kinh tế và chính trị, nên người Kinh có nhiều cơ hội tiếp cận các nguồn lực phát triển trước.",
-          "Điều này không có nghĩa là sách lược chiếm dụng, mà là hệ quả tất yếu trong một quốc gia đa dân tộc mà nhóm dân cư đông nhất sẽ có vị trí chủ đạo.",
-          "Nhà nước Việt Nam thực hiện nhiều chính sách nhằm bảo vệ quyền lợi và phát triển đồng đều cho các dân tộc thiểu số, khuyến khích phát huy bản sắc văn hóa riêng của họ, đồng thời xây dựng sự đoàn kết dân tộc để tránh chia rẽ và xung đột.",
+        content: [],
+        cards: [
+          {
+            title: "Do chênh lệch lịch sử",
+            content:
+              "Có sự chênh lệch thực tế về trình độ phát triển, dân số (người Kinh chiếm đa số) và việc nắm giữ các nguồn lực kinh tế, chính trị. Đây là thực tế khách quan dễ dẫn đến nhận thức về sự \"áp đảo\".",
+          },
+          {
+            title: "Do hạn chế trong thực thi chính sách",
+            content:
+              "Dù chính sách của Nhà nước là đúng đắn (như ưu tiên, hỗ trợ), việc thực thi yếu kém, máy móc ở các cấp có thể vô tình làm mai một bản sắc văn hóa địa phương, gây hiểu lầm về sự \"đồng hóa\".",
+          },
+          {
+            title: "Do sự chống phá của thế lực thù địch",
+            content:
+              "Các thế lực này thường xuyên \"lợi dụng vấn đề dân tộc\" để kích động, chia rẽ và phá hoại khối đại đoàn kết dân tộc. Việc lan truyền luận điệu \"người Kinh chiếm dụng\" là một trong những chiến thuật của họ.",
+          },
         ],
       },
       {
         title: "4.5. Kết luận",
         image: "/images/img1.png",
         content: [
-          "Tóm lại, người Kinh chiếm đa số và giữ vị trí chủ đạo về kinh tế, văn hóa và chính trị là thực tế xã hội, nhưng Nhà nước đã và đang có những chính sách dân tộc để đảm bảo bình đẳng và phát triển hài hòa giữa các dân tộc, ngăn ngừa việc chiếm dụng văn hóa hay lợi ích của dân tộc thiểu số.",
-          "Các chính sách này thể hiện rõ quan điểm của chủ nghĩa Mác - Lênin về vấn đề dân tộc, đảm bảo quyền bình đẳng, tự quyết và đoàn kết giữa các dân tộc trong cộng đồng quốc gia Việt Nam.",
+          "Sự chênh lệch về kinh tế và chính trị giữa dân tộc Kinh và các dân tộc thiểu số là một thực tế lịch sử khách quan. Tuy nhiên, quan điểm cho rằng đây là kết quả của sự \"chiếm dụng\" là không có cơ sở và đi ngược lại chính sách dân tộc của Nhà nước Việt Nam.",
+          "Chủ trương nhất quán của Việt Nam là đoàn kết, bình đẳng, tương trợ để khắc phục sự chênh lệch lịch sử thông qua các chính sách cụ thể như ưu tiên đầu tư, phát triển cán bộ dân tộc thiểu số và bảo tồn bản sắc văn hóa. Các luận điểm về \"chiếm dụng\" hay \"chia rẽ\" đều bị xem là âm mưu phá hoại khối đại đoàn kết dân tộc.",
         ],
       },
     ],
