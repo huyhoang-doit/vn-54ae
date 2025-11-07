@@ -516,19 +516,6 @@ const ContentSection = () => {
           padding: "20px",
         }}
       >
-        <h2
-          style={{
-            fontSize: "40px",
-            fontWeight: "bold",
-            textAlign: "center",
-            color: "#3498db",
-            textTransform: "uppercase",
-            letterSpacing: "2px",
-          }}
-        >
-          Nội Dung Chính
-        </h2>
-
         {/* Section List */}
         {sections.map((section) => (
           <motion.div
