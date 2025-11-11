@@ -4,6 +4,7 @@ import Sidebar from './components/Sidebar';
 import Banner from './components/Banner';
 import ContentSection from './components/ContentSection';
 import MobileMenuButton from './components/MobileMenuButton';
+import Footer from './components/Footer';
 import { motion } from 'framer-motion';
 
 function App() {
@@ -46,6 +47,7 @@ function App() {
             <main style={{ padding: '40px', maxWidth: '1400px', margin: '0 auto' }}>
               <ContentSection />
             </main>
+            <Footer />
           </motion.div>
         </div>
       </div>
